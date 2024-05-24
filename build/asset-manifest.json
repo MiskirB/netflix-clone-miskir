@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MiskirB/netflix-clone-miskir/static/css/main.90ff4390.css",
+    "main.js": "/MiskirB/netflix-clone-miskir/static/js/main.625c3c2c.js",
+    "static/media/netflixlogo.png": "/MiskirB/netflix-clone-miskir/static/media/netflixlogo.01a218c2d306a6939228.png",
+    "index.html": "/MiskirB/netflix-clone-miskir/index.html",
+    "main.90ff4390.css.map": "/MiskirB/netflix-clone-miskir/static/css/main.90ff4390.css.map",
+    "main.625c3c2c.js.map": "/MiskirB/netflix-clone-miskir/static/js/main.625c3c2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90ff4390.css",
+    "static/js/main.625c3c2c.js"
+  ]
+}
